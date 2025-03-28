@@ -4,13 +4,12 @@ I am a Data Engineer candidate, and my interest in the programming world grows e
 
 ### Technologies and Tools I Use 🚀
 
-#### **Programming Languages:**
-- **Python** 🐍
-- **SQL** 🗄️
+### 🛠️ Tools & Technologies
+- 🐍 Python
+- 📊 SQL
+- 🐙 Git & GitHub
+- 🛢️ DBeaver
 
-#### **Version Control Tools:**
-- **Git** 💻
-- **GitHub** 📂
 
 ### Contact 📬
 You can reach me through the following:
