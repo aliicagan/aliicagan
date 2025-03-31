@@ -19,9 +19,8 @@ Technologies and Tools I Use 🚀
 Contact 📬
 You can reach me through the following:
 
-GitHub: @AliGitHub
-
-LinkedIn: Ali's LinkedIn
+- GitHub: [@AliGitHub](https://github.com/aliicagan)
+- LinkedIn: [Ali's LinkedIn](https://www.linkedin.com/in/ali-%C3%A7a%C4%9Fan-463413195/)
 
 
 
