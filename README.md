@@ -15,7 +15,6 @@ Technologies and Tools I Use 🚀
 
 📂 JSON (Data Formatting & Processing)
 
-I work with APIs, fetching and organizing data using Postman and JSON, ensuring structured and clean data for various use cases.
 
 Contact 📬
 You can reach me through the following:
