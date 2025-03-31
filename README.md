@@ -3,7 +3,7 @@ I am a Data Engineer candidate, and my interest in the programming world grows e
 
 Technologies and Tools I Use 🚀
 🛠️ Tools & Technologies
-🐍 Python
+🐍 Python (Data Processing & Automation)
 
 📊 SQL
 
